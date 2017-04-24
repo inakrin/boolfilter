@@ -1,0 +1,1 @@
+[{"model": "boolfilter.testmodel", "pk": 1, "fields": {"first": true, "last": true}}, {"model": "boolfilter.testmodel", "pk": 2, "fields": {"first": true, "last": false}}, {"model": "boolfilter.testmodel", "pk": 3, "fields": {"first": false, "last": false}}, {"model": "boolfilter.testmodel", "pk": 4, "fields": {"first": false, "last": true}}]
